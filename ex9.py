@@ -2,7 +2,7 @@
 
 days = "Mon Tue Wed Thu Fri Sat Sun"
 # days creates the variable for days of the week
-months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
+months = "\nJan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 # months creates the variable for months listed within. The \n does a line break
 
 print("Here are the days: ", days)
